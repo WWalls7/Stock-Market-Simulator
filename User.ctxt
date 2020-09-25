@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=name
+comment1.target=User(java.lang.String)
+comment2.params=amount
+comment2.target=void\ depositToWallet(double)
+comment3.params=
+comment3.target=double\ getWalletBalance()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=stock
+comment5.target=int\ buyStock(Stock)
+comment6.params=stock
+comment6.target=boolean\ payForStock(Stock)
+comment7.params=
+comment7.target=java.util.ArrayList\ getStocks()
+numComments=8
