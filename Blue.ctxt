@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Blue
-comment1.params=name\ price
-comment1.target=Blue(java.lang.String,\ double)
-comment2.params=
-comment2.target=boolean\ getVotingRights()
-comment3.params=
-comment3.target=void\ fluctuatePrice()
-numComments=4
